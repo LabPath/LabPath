@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "target": "ES2019",
+        "moduleResolution": "node"
+    },
+    "include": [
+        "src/*"
+    ]
+}

@@ -1,26 +1,22 @@
 {
-  "name": "lab-path",
-  "version": "1.0.0",
-  "description": "![\"\"](https://imgur.com/WsA0sxb.png)",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AFK-Collection/LabPath.git"
-  },
-  "author": "Bread <developernamedbread@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AFK-Collection/LabPath/issues"
-  },
-  "homepage": "https://github.com/AFK-Collection/LabPath#readme",
-  "dependencies": {
-    "@types/node": "^14.14.10",
-    "@types/node-fetch": "^2.5.7",
-    "moment": "^2.29.1",
-    "node-fetch": "^2.6.1",
-    "readdirp": "^3.5.0"
-  }
+    "name": "lab-path",
+    "version": "1.0.0",
+    "description": "![\"\"](https://imgur.com/WsA0sxb.png)",
+    "private": true,
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AFK-Collection/LabPath.git"
+    },
+    "author": "Bread <developernamedbread@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "@types/node": "^14.14.10",
+        "@types/node-fetch": "^2.5.7",
+        "node-fetch": "^2.6.1",
+        "proposal-temporal": "^0.6.0",
+        "readdirp": "^3.5.0"
+    }
 }
